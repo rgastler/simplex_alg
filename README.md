@@ -1,5 +1,6 @@
 The Simplex Algorithm with C++
 
+(Click 'raw' to see this in a better view.)
 This code is designed to use the simplex algorithm to solve linear programming problems like the following:
 Maximize: P = 2x + 3y (or P - 2x - 3y = 0 for reference later)
 Subject to constraints:
